@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandra
 - 👀 I’m interested in everything related to Software Development
 - 🌱 I’m currently learning Computer Science in Western University
-- 💞️ I’m looking forward to participate in open-source programs
+- 💞️ I’m looking forward to participate in open-source projects
 - 📫 How to reach me: @jennewein379@gmail.com  @xwan2272@uwo.ca
 
 <!---
